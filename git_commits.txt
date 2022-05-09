@@ -1,0 +1,8 @@
+[main fc01e1a] Current time: 10/05/2022 00:19:55
+ 5 files changed, 74 insertions(+)
+ create mode 100644 .scheduler.py.swp
+ create mode 100644 git_commits.txt
+ create mode 100755 rwth_script_for_cluster.sh
+ create mode 100644 scheduler.py
+To git@github.com:santiagocasas/monitorprogress.git
+   e84d9f1..fc01e1a  main -> main
